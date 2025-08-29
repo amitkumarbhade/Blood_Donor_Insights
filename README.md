@@ -82,7 +82,7 @@ A predictive model (Random Forest) further demonstrated that donor behavior can 
 ## 🚀 How to Run  
 You can run the notebook directly in **Google Colab**:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumarbhade/Blood_Donor_Insights/blob/main/Blood_Donor_Insights.ipnby)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumarbhade/Blood_Donor_Insights/blob/main/Blood_Donor_Insights.ipynb)  
 
 Steps:  
 1. Upload the notebook (`Blood_Donor_Analysis.ipynb`) to Colab.  
